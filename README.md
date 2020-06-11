@@ -4,7 +4,7 @@ Using the Foursquare API to make an app displaying the top 15 coffee shops in an
 The challenge was to make an app that pulled the top 15 coffee shops from a specific location and display the information for those coffee shops in a table view. My first thought was to have a tableview and a map within the same view but I wanted to do something a bit different that I could have fun with. After becomming aquainted with the data, I decided to make those 15 results look like instagram posts and display the "tips" associated with the results as the message under the "post". The GIF below shows this better than I can in words. 
 
 <p align="center">
-	<a href="https://github.com/StevenWorrall/Swift-Practice/tree/master/TableView/BasicTableView.playground"><img src="https://github.com/StevenWorrall/Coffee_Foursquare/Coffee_Example.gif" height=400px width=auto ></a>
+	<a href="https://github.com/StevenWorrall/Coffee_Foursquare/blob/master/Coffee_Example.gif"><img src="https://github.com/StevenWorrall/Coffee_Foursquare/blob/master/Coffee_Example.gif" height=400px width=auto ></a>
 </p>
 
 I didn't manage to get to UnitTests within the time I was willing to spend on the app however I might go about making some tests to ensure proper instantiation of views by both feeding in correct and incorrect data via the FoursquareInteractorDelegate dataSuccess function. 
