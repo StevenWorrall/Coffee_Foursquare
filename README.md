@@ -17,4 +17,6 @@ If you'd like to see more examples of my Swift code click [here](https://github.
 
 If you'd like to see more examples of some complex views in Swift click [here](https://github.com/StevenWorrall/Netflix_Clone)
 
+My resume is [here](https://github.com/StevenWorrall/Resume/blob/master/Steven_Worrall.pdf)
+
 Thanks!
