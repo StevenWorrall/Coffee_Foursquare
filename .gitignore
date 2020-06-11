@@ -1,0 +1,19 @@
+.DS_Store
+
+## Build generated
+build/
+DerivedData
+
+## Various settings
+*.pbxuser
+xhbit.xcodeproj/xcuserdata
+xcuserdata
+
+# Pods/
+Pods/Pods.xcodeproj/xcuserdata
+
+## Other
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
